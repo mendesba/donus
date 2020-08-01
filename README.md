@@ -4,11 +4,17 @@ Microserviço criado para gerenciamento de algumas funções bancarias.
 
 ### Tecnologia utilizadas 
 -Java 8 
--SpringBoot 
+
+-SpringBoot
+
 -Spring Data 
+
 -Banco de Dados MongoDB 
+
 -Testes utilizando JUnit e Mockito 
+
 -Swagger 
+
 -Lombok
 
 ### Contratos de APIs 
